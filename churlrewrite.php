@@ -12,6 +12,7 @@ use CRM_Churlrewrite_ExtensionUtil as E;
  */
 function churlrewrite_civicrm_config(&$config) {
   _churlrewrite_civix_civicrm_config($config);
+  $config->__set('userSystem', new CRM_Utils_System_CanadaHelpsDrupal());
 }
 
 /**

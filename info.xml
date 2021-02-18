@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <extension key="biz.jmaconsulting.churlrewrite" type="module">
   <file>churlrewrite</file>
-  <name>Canada Helps URL Re-write Extension</name>
-  <description>Extension for Canada Helps to re-write urls to remove civicrm/ and replace with dms/</description>
+  <name>CanadaHelps URL Re-write Extension</name>
+  <description>Extension for CanadaHelps to re-write urls to remove civicrm/ and replace with dms/</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Seamus Lee</author>
